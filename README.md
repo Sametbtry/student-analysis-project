@@ -3,7 +3,6 @@
 This project performs student analysis using various datasets. The program includes:
 - Analyzing student scores.
 - Generating reports on passed and failed students.
-- Analyzing student performance over time.
 
 # Usage
 
